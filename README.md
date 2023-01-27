@@ -37,7 +37,7 @@ Throughout this lab, we learnt that testing is a team effort and that everyone n
 
 # High-level description of the exploratory testing plan
 
-Text…
+High-Level Exploratory Plan is characterized by the requirements mandated by Appendix B of the lab handout. Therefore, the main functions targeted would include basic functions of an ATM such as inserting a card, depositing, withdrawing, etc. The approach taken is to test the main ATM functions the most extensively as this is the most importantly defined in the program requirements. Apart from this, tests are based on tester's intuition and what they believe will break the code.
 
 # Comparison of exploratory and manual functional testing
 
