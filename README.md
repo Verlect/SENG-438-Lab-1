@@ -56,7 +56,8 @@ Our general pair testing management is outlined in the lab handout. In short, ou
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+When working in a team, common difficulties may include communication issues, conflicting opinions or work styles, and difficulty coordinating tasks and schedules. To overcome these challenges, it is essential to establish clear lines of communication, set expectations and goals, and be open to feedback and constructive criticism. It can also be helpful to establish roles and responsibilities for each team member and to be flexible and willing to compromise.
+Some lessons that can be learned from teamwork include the importance of effective communication, the value of diversity and differing perspectives, and the need for strong leadership and organization. It is also essential to learn how to work well with others, to be able to give and receive feedback constructively, and to be able to resolve conflicts professionally and productively. Additionally, adapting to change and being open to new ideas and ways of working is essential. 
 
 # Comments/feedback on the lab and lab document itself
 
