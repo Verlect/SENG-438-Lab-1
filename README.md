@@ -48,11 +48,12 @@ In summary, exploratory testing focuses more on the tester's expertise and intui
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Peer reviewing defect reports allotted our group better accountability in our bug reports. It also allowed us to not only “burnout” slower, but also it allows us to gain a better circulation in ideas. 
+
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Our general pair testing management is outlined in the lab handout. In short, our group of four split into 2 groups of two for each of the testing types. To reduce “burnout” and to give every member the opportunity to experience the totality of this lab, we would switch roles every so often or at request.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
