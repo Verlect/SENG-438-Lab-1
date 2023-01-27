@@ -4,11 +4,10 @@
 
 | Group: Group Number 13     |
 |-----------------|
-| Bismarck Leung               |   
-| David Tran              |   
-| Shichao Han              |   
-| Zirui Wang                |   
-
+| Bismarck                |   
+| David               |   
+| Shichao               |   
+| Zirui
 
 **Table of Contents**
 
