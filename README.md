@@ -48,7 +48,8 @@ Text…
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Peer reviewing defect reports allotted our group better accountability in our bug reports. It also allowed us to not only “burnout” slower, but also it allows us to gain a better circulation in ideas. 
+
 
 # How the pair testing was managed and team work/effort was divided 
 
